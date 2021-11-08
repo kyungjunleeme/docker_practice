@@ -8,3 +8,6 @@ https://testdriven.io/blog/docker-best-practices/?fbclid=IwAR12roR-ftTKPPEQwXhUk
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#add-or-copy
 
 https://stackoverflow.com/questions/24958140/what-is-the-difference-between-the-copy-and-add-commands-in-a-dockerfile
+
+
+https://parksunwoo.github.io/docker/2021/05/29/django-postgres-gunicorn-nginx-dockerizing.html
