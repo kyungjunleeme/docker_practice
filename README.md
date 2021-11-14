@@ -17,3 +17,5 @@ http://labs.brandi.co.kr/2021/01/20/hwangsg.html
 
 
 # elastic search와 도커 조합 예전 블로그 글 찾아서 추가 해놓을 것
+
+# https://www.jetbrains.com/help/pycharm/docker-compose.html#working
