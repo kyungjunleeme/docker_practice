@@ -11,3 +11,9 @@ https://stackoverflow.com/questions/24958140/what-is-the-difference-between-the-
 
 
 https://parksunwoo.github.io/docker/2021/05/29/django-postgres-gunicorn-nginx-dockerizing.html
+
+# 로컬 개발환경 구축
+http://labs.brandi.co.kr/2021/01/20/hwangsg.html
+
+
+# elastic search와 도커 조합 예전 블로그 글 찾아서 추가 해놓을 것
