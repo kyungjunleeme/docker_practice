@@ -1,3 +1,9 @@
+# docker 이미지 사용시 Alpine
+https://pythonspeed.com/articles/alpine-docker-python/
+
+# https://tech.buzzvil.com/blog/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/
+# 
+
 # docker_practice
 
 해당 tutorial을 기반으로 차근차근 도커에 대해서 다시 알아볼 생각입니다.
